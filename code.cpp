@@ -28,12 +28,9 @@ int main () {
 	    cout << "Enter an adjective: " ;
 	    getline(cin,adjective);
 	    
-	    
-	    
 		cout << "My name is " << name << " , and I have known " << celebrity << " for " << number << " years." << endl;
 		cout << "I have " << verb << " all my work today to celebrate " << celebrity << "'s birthday " << endl;
 		cout << "I am so " << adjective << " that " << celebrity << " was born on this day";
-	
 		
 	return 0;
 }
